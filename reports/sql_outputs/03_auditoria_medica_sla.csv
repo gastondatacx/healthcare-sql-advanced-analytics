@@ -1,0 +1,7 @@
+Ranking Crítico,Especialidad Médica,Órdenes Auditadas (Cant),Tiempo Medio Resolución,Incumplimiento SLA >48hs (%),Tasa de Rechazo (%),Costo Prestacional ($ ARS),Peso sobre Presupuesto (%)
+1,Cirugía General e Internación,585,56.6 hs,71.8%,24.1%,"$ 414,924,400 ARS",61.6%
+2,Diagnóstico por Imágenes,624,39.2 hs,28.8%,13.0%,"$ 94,473,200 ARS",14.0%
+3,Odontología y Ortodoncia,580,28.9 hs,11.0%,17.6%,"$ 58,044,300 ARS",8.6%
+4,Salud Mental y Psicología,629,23.4 hs,5.9%,9.7%,"$ 35,772,300 ARS",5.3%
+5,Kinesiología y Rehabilitación,624,20.5 hs,4.5%,9.5%,"$ 31,604,100 ARS",4.7%
+6,Laboratorio Bioquímico,592,16.0 hs,1.0%,7.4%,"$ 38,578,500 ARS",5.7%

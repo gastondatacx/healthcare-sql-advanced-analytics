@@ -1,0 +1,16 @@
+Posición,ID Agente,Célula / Supervisor,Llamadas (Cant),AHT Agente,Resolución (%),CSAT Agente (1-5),Desvío CSAT vs Equipo,Score QA (0-100),Segmento Cuartil (NTILE)
+1,AG_04,Célula 1,138,5.5 min,97.1%,4.09 pts,+0.61,89.5 pts,Q1 - Top Performer (Bono)
+2,AG_05,Célula 2,180,5.5 min,94.4%,4.02 pts,+0.39,87.4 pts,Q1 - Top Performer (Bono)
+3,AG_03,Célula 4,164,5.7 min,94.5%,4.01 pts,+0.4,87.3 pts,Q1 - Top Performer (Bono)
+4,AG_06,Célula 3,157,5.6 min,91.1%,4.0 pts,+0.28,85.5 pts,Q1 - Top Performer (Bono)
+5,AG_01,Célula 2,170,5.7 min,92.9%,3.89 pts,+0.27,85.4 pts,Q1 - Top Performer (Bono)
+6,AG_02,Célula 3,145,5.4 min,89.7%,3.93 pts,+0.21,84.1 pts,Q2 - Estándar Alto
+7,AG_10,Célula 3,154,5.8 min,90.9%,3.71 pts,-0.01,82.5 pts,Q2 - Estándar Alto
+8,AG_14,Célula 3,169,5.7 min,87.0%,3.8 pts,+0.08,81.5 pts,Q2 - Estándar Alto
+9,AG_12,Célula 1,155,5.7 min,89.7%,3.57 pts,+0.08,80.5 pts,Q2 - Estándar Alto
+10,AG_07,Célula 4,139,5.8 min,87.8%,3.65 pts,+0.04,80.4 pts,Q2 - Estándar Alto
+11,AG_13,Célula 2,159,5.9 min,89.3%,3.55 pts,-0.07,80.2 pts,Q3 - En Desarrollo
+12,AG_09,Célula 2,151,5.9 min,87.4%,3.59 pts,-0.04,79.6 pts,Q3 - En Desarrollo
+13,AG_15,Célula 4,166,5.6 min,84.9%,3.67 pts,+0.06,79.2 pts,Q3 - En Desarrollo
+14,AG_08,Célula 1,180,5.7 min,86.7%,3.54 pts,+0.05,78.7 pts,Q3 - En Desarrollo
+15,AG_11,Célula 4,166,5.8 min,81.9%,3.61 pts,0.0,77.0 pts,Q3 - En Desarrollo
